@@ -1,11 +1,9 @@
-# 💻 Lume Skincare Landing Page
+#Lume Skincare Landing Page
 
 This is a simple and responsive skincare product landing page created using HTML and CSS.  
 The project includes a clean layout, styled sections, responsive design, and image editing using CSS.
 
----
-
-## 🌐 Project Overview
+##  Project Overview
 
 The webpage includes:
 
@@ -18,16 +16,12 @@ The webpage includes:
 
 The project is beginner-friendly and helps in understanding the basics of front-end web development.
 
----
-
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
 
----
-
-## ✨ Features
+##  Features
 
 - Responsive webpage design
 - Smooth navigation links
@@ -37,9 +31,7 @@ The project is beginner-friendly and helps in understanding the basics of front-
 - Clean and modern UI
 - Flexbox layout design
 
----
-
-## 📁 Project Structure
+## Project Structure
 
 ```text
 Lume-Skincare/
@@ -51,9 +43,7 @@ Lume-Skincare/
 └── README.md
 ```
 
----
-
-## 🖼️ CSS Image Editing
+## CSS Image Editing
 
 Images are customized using CSS properties like:
 
@@ -70,26 +60,20 @@ These styles help in:
 - Creating hover zoom effects
 - Improving overall appearance
 
----
-
-## 📱 Responsive Design
+##  Responsive Design
 
 The webpage is designed to work properly on:
 - Desktop
 - Tablet
 - Mobile devices
 
----
-
-## 🚀 How to Run the Project
+##  How to Run the Project
 
 1. Download or clone the repository
 2. Open the project folder
 3. Open `index.html` in any browser
 
----
-
-## 📚 What I Learned
+##  What I Learned
 
 Through this project, I learned:
 - Basic webpage structure using HTML
@@ -100,8 +84,6 @@ Through this project, I learned:
 - Image styling and effects
 - Hover animations
 
----
-
-## 👩‍💻 Author
+##  Author
 
 **Gandla Vyshnavi**
